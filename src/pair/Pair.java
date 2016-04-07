@@ -1,7 +1,9 @@
+package pair;
+
 /**
  * Created by m on 07.04.16.
  */
-public class Pair<T1, T2> {
+public final class Pair<T1, T2> {
     public final T1 x;
     public final T2 y;
 
